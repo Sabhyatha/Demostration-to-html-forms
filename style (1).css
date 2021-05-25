@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  background-color: mediumpurple;
+  border: gold 5px solid;
+  padding: 5px;
+}
+
+form {
+  background-color: greenyellow;
+}
+
+legend{
+  font-size: 25px;
+  color: red;
+}
+
+p{
+  color:rgb(175, 11, 134);
+  weight: 25%;
+}
